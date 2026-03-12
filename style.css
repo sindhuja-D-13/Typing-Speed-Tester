@@ -1,0 +1,50 @@
+body{
+font-family: Arial;
+background: linear-gradient(120deg,#a1c4fd,#c2e9fb);
+text-align:center;
+}
+
+.container{
+background:white;
+width:520px;
+margin:120px auto;
+padding:30px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+
+h1{
+color:#333;
+}
+
+#sentence{
+font-size:18px;
+margin:20px;
+}
+
+textarea{
+width:90%;
+height:120px;
+font-size:16px;
+padding:10px;
+}
+
+.result{
+margin-top:20px;
+font-size:18px;
+}
+
+button{
+margin-top:20px;
+padding:10px 20px;
+font-size:16px;
+background:#007BFF;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#0056b3;
+}
